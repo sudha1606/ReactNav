@@ -1,0 +1,37 @@
+body{
+    overflow-x: hidden;
+}
+.Footer{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: rgb(238, 238, 238);
+    color: black;
+    height: 550px;
+}
+.footer-head{
+    position: absolute;
+    top:20px;
+    left: 530px;
+    color:gray;
+}
+.heads{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+}
+.just-para{
+    text-align: center;
+}
+.img1{
+    position: relative;
+    top:50px;
+}
+#t1{
+    position: absolute;
+    top: 300px;
+    right: 135px;
+    width: 400px;
+}
